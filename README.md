@@ -2,7 +2,7 @@
 <h3 align="center">A third-year Software Engineer student from Canada.</h3>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
-- 🔭 I’m currently working on [Connect4](https://github.com/KhalilGarali/Connect4)
+- 🔭 I’m currently working on [MyDay](https://github.com/KhalilGarali/MyDay)
 
 - 🌱 I’m currently learning **React.**
 
