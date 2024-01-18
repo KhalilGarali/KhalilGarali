@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khalil Garaali!</h1>
 <h3 align="center">A third-year Software Engineer student from Canada.</h3>
-<img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+<img align="right" alt="Coding" width="400" src="[https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3AR3C2FmeqmCrx_zR-dft_&ust=1705637563209000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiY4KKJ5oMDFQAAAAAdAAAAABAX)">
 
 - 🔭 I’m currently working on [MyDay](https://github.com/KhalilGarali/MyDay)
 
