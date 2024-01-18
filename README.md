@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khalil Garaali!</h1>
 <h3 align="center">A third-year Software Engineer student from Canada.</h3>
-<img align="right" alt="Coding" width="400" src="[https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3AR3C2FmeqmCrx_zR-dft_&ust=1705637563209000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiY4KKJ5oMDFQAAAAAdAAAAABAX)">
+<img align="right" alt="Coding" width="400" src="[[https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3AR3C2FmeqmCrx_zR-dft_&ust=1705637563209000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiY4KKJ5oMDFQAAAAAdAAAAABAX)](https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966)">
 
 - 🔭 I’m currently working on [MyDay](https://github.com/KhalilGarali/MyDay)
 
