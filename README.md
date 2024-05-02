@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [MyDay](https://github.com/KhalilGarali/MyDay)
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **Flutter.**
 
 - 📫 How to reach me **garalikhalil@gmail.com**
 
